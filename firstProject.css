@@ -1,0 +1,24 @@
+html {
+    background-color: #FADDA8;
+    
+}
+
+h1 {
+    color: rgb(59, 164, 96);
+    margin-left: 500px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.one {
+    background-color: blanchedalmond;
+}
+
+p {
+    margin: 20px;
+    font-family: fantasy;
+    color: white;
+    
+}
